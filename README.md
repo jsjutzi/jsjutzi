@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jsjutzi
 - 👀 I’m interested in designing, building, and scaling performant, well-tested, and fault-tolerant backend systems.
 - 🌱 I’m currently polishing my skills in Rust, Golang, Databases & system design.
-- 💞️ I’m looking to collaborate on cool rust projects.
+- 💞️ I’m looking to collaborate on cool Rust projects.
 - 📫 You can reach me at jsjutzi@gmail.com
 
 <!---
