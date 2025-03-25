@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsjutzi
-- 👀 I’m interested in designing, building, and scaling performant, well-tested, and fault-tolerant backend systems.
+- 👀 I’m interested in designing, building, and scaling performant, well-tested, and fault-tolerant systems that deliver light-speed performance and top tier user experiences.
 - 📫 You can reach me at jsjutzi@gmail.com
 
 <!---
